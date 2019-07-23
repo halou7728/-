@@ -1,4 +1,4 @@
-# -
+
 	# Go语言的基本类型有：
 		bool
 		string
